@@ -22,7 +22,7 @@ private:
     uint64_t m_bitlen;
     uint32_t m_state[8];
 
-    // Declaration only (no initializer list here)
+    // ✅ Declaration only (no initializer list here)
     static const std::array<uint32_t, 64> K;
 
     static uint32_t rotr(uint32_t x, uint32_t n);
