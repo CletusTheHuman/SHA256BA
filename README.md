@@ -5,3 +5,7 @@ The program implements SHA-256 hashing, allowing users to input any string and g
 The application also includes a Caesar cipher encryption system. Messages can be encrypted by shifting each letter forward by three positions in the alphabet and decrypted by reversing the shift. This demonstrates a simple substitution cipher and basic symmetric encryption concepts.
 
 Together, these features showcase authentication control, encryption/decryption, and cryptographic hashing in a single application.
+
+User: Chubbs
+
+Password: 12345
